@@ -1,0 +1,17 @@
+# Ignore Visual Studio system files
+.vs/
+*.user
+*.suo
+*.vssscc
+*.ncb
+*.aps
+*.psess
+*.vsp
+*.vspscc
+*_i.c
+*_p.c
+*_h.h
+*.dbmdl
+*.bak
+*.log
+*.vsidx
