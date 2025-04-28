@@ -1247,17 +1247,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sneza\\.nuget\\packages\\": {},
+    "C:\\Users\\anjac\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sneza\\source\\repos\\StudentOganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.iOS\\StudentOrganizatorr.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\anjac\\source\\repos\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.iOS\\StudentOrganizatorr.iOS.csproj",
       "projectName": "StudentOrganizatorr.iOS",
-      "projectPath": "C:\\Users\\sneza\\source\\repos\\StudentOganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.iOS\\StudentOrganizatorr.iOS.csproj",
-      "packagesPath": "C:\\Users\\sneza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sneza\\source\\repos\\StudentOganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.iOS\\obj\\",
+      "projectPath": "C:\\Users\\anjac\\source\\repos\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.iOS\\StudentOrganizatorr.iOS.csproj",
+      "packagesPath": "C:\\Users\\anjac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anjac\\source\\repos\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,
@@ -1265,7 +1265,7 @@
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\sneza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\anjac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1279,8 +1279,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\sneza\\source\\repos\\StudentOganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.csproj": {
-              "projectPath": "C:\\Users\\sneza\\source\\repos\\StudentOganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.csproj"
+            "C:\\Users\\anjac\\source\\repos\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.csproj": {
+              "projectPath": "C:\\Users\\anjac\\source\\repos\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.csproj"
             }
           }
         }
@@ -1288,7 +1288,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       }
     },
     "frameworks": {

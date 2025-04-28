@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "uxMlbnF2cUg=",
+  "dgSpecHash": "iEa42vskHcg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sneza\\source\\repos\\StudentOganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.csproj",
+  "projectFilePath": "C:\\Users\\anjac\\source\\repos\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr\\StudentOrganizatorr.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sneza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\sneza\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\sneza\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\sneza\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\sneza\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\anjac\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anjac\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\anjac\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\anjac\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\anjac\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }
