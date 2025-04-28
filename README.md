@@ -1,0 +1,2 @@
+# StudentOrganizator
+Organizator studentskih obaveza.
